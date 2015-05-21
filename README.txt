@@ -23,9 +23,11 @@ Highway to Hell
 Stairway to Heaven
 Devil Went Down To Georgia
 
-To Do:
+Things Couldn't Complete:
 
--Hook up Maps.
--Test and Iterate Changes
+Hooking up the maps.
+Sadly, Portal Editor items don't seem to work well with the hammer portal items. 
+I couldn't find any tutorials online that showed how to hook up using portal editor items, but plently for hammer portal items.
+While it might be possible, I just couldn't figure it out with the time I had.
 
 Tyler Feldman & Steven Shing
